@@ -1,0 +1,32 @@
+{
+  "id": "68e3e1149515f6575630261b",
+  "title": "Embark on Your Coding Journey: Master Programming with Leet Code",
+  "description": "Immerse yourself in the dynamic world of programming with our comprehensive beginner’s course. Designed to build confidence and skill, you'll engage with Leet Code challenges to learn key programming principles and develop robust problem-solving prowess, a foundation essential for a successful tech career!!!!!",
+  "learningObjectives": [
+    "Understand the historical background of vaccines"
+  ],
+  "finalProjectDetails": {
+    "overview": "The final project challenges you to solve a range of Leet Code problems, testing your understanding of programmatic concepts, data structures, and algorithms!!??????",
+    "requirements": [
+      "Demonstrate a thorough grasp of course concepts by solving a curated set of problems, and showcase optimization and best practices in your solutions."
+    ],
+    "submissionInstructions": "Consolidate all your solutions into a compressed file, accompanied by a document detailing your problem-solving approach, including analyses of algorithm efficiency. Ensure your code is well-organized and thoroughly commented. Adherence to deadlines is critical; submit by the final date specified.\n",
+    "planningResources": [
+      "Project problem set",
+      "Leet Code account",
+      "Supplementary resources on data structures and algorithmsdfegwegw",
+      "TEST"
+    ]
+  },
+  "createdBy": {
+    "name": "Doina Fitchevici",
+    "githubUsername": "DoinaFitchevici"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/DoinaFitchevici/embark-on-your-coding-journey-master-programming-with-leet-code",
+  "createdAt": "2025-10-06T15:32:36.324Z",
+  "updatedAt": "2025-10-27T18:22:39.120Z",
+  "lessonCount": 5
+}
